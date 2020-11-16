@@ -2,3 +2,43 @@ body {
     background-color: black;
     text-align: center;
 }
+
+
+/* Page text */
+.excursion-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    display: block;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: gray;
+    font-size: 21px;
+}
+
+#copyright {
+    text-align: right;
+}
+
+/* Media */
+
+video,
+img {
+    display: block;
+    margin: 20px auto;
+}
